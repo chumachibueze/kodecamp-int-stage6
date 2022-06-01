@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kodecamp-int-stage6/static/css/main.9776f6fc.css",
+    "main.js": "/kodecamp-int-stage6/static/js/main.8e1499a6.js",
+    "static/js/787.cebc49f9.chunk.js": "/kodecamp-int-stage6/static/js/787.cebc49f9.chunk.js",
+    "static/media/kodecamp-logo.png": "/kodecamp-int-stage6/static/media/kodecamp-logo.483d48a3358730f8b47a.png",
+    "static/media/bootstrap-icons.woff?": "/kodecamp-int-stage6/static/media/bootstrap-icons.7ff3ca6fa798de3f8ac2.woff",
+    "static/media/bootstrap-icons.woff2?": "/kodecamp-int-stage6/static/media/bootstrap-icons.f2539a501be3a673de05.woff2",
+    "static/media/dashboardpage-img.svg": "/kodecamp-int-stage6/static/media/dashboardpage-img.e8a2acffc4638a3bdf1f1825a0058cde.svg",
+    "static/media/landingpage-img.svg": "/kodecamp-int-stage6/static/media/landingpage-img.30ec3051d5ee9893e9b190e331aad8d3.svg",
+    "static/media/loginpage-img.svg": "/kodecamp-int-stage6/static/media/loginpage-img.486317795bea388ea249362083c418ec.svg",
+    "index.html": "/kodecamp-int-stage6/index.html",
+    "main.9776f6fc.css.map": "/kodecamp-int-stage6/static/css/main.9776f6fc.css.map",
+    "main.8e1499a6.js.map": "/kodecamp-int-stage6/static/js/main.8e1499a6.js.map",
+    "787.cebc49f9.chunk.js.map": "/kodecamp-int-stage6/static/js/787.cebc49f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9776f6fc.css",
+    "static/js/main.8e1499a6.js"
+  ]
+}
