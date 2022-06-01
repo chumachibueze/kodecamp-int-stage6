@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital@0;1&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 24px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  #navbar-text, .navbar-text {
+    font-family: 'Lobster Two', cursive;
+  }
+
+  #bg-blue, .bg-blue{
+    background-color: #0D6EFD;
+  }
+
+  #bg-green, .bg-green{
+    background-color: #669E00;
+  }
+
+  .text-blue, #text-blue{
+    color: #0D6EFD;
+  }
+
+  .text-green, #text-green{
+    color: #669E00;
+  }
+
+  .logo{
+    height: 100px;
+    width: 100px;
+  }
+
